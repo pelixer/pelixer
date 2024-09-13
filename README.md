@@ -1,5 +1,6 @@
-# For the Lab2-1
+# For the Lab2-2
 ### hee hee im the king !
+### Let's do something funny !
 <!--
 **pelixer/pelixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
